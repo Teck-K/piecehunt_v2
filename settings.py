@@ -1,12 +1,4 @@
-"""Application settings and path configuration for PieceHunt.
-
-Loads credentials from the .env file and decodes them from base64.
-All application directories are defined here as Path objects and
-automatically created at startup via create_dir_structure() in main.py.
-
-Credentials are stored in base64 in the .env file to prevent
-casual reading. See .env.example for the required variables.
-"""
+"""Application settings and path configuration for PieceHunt."""
 
 import tomllib
 from importlib.metadata import PackageNotFoundError, version

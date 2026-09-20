@@ -45,6 +45,7 @@ class SetHandler(metaclass=SingletonMeta):
     """
 
     def __init__(self):
+
         self.set_num = ""
         self.normalized_set_num = ""
         self.set_obj = None
@@ -253,8 +254,8 @@ class SetHandler(metaclass=SingletonMeta):
         """
         if not is_connected():
             raise ConnectionError("No Internet Connection")
-
         new_parts = []
+
         for part in parts:
             filename = f"{part['part_num']}_{part['color_id']}.jpg"
             if not (PART_IMAGES_DIR / filename).exists():
@@ -278,12 +279,14 @@ class SetHandler(metaclass=SingletonMeta):
 
     def download_single_image(self, part):
         """part: dict met keys 'part_num', 'color_id', 'img_url'."""
+
         if not is_connected():
             raise ConnectionError("No Internet Connection")
 
         img_url = part.get("img_url")
         part_num = part["part_num"]
         color_id = part["color_id"]
+        element_ids = part["element_ids"]
         filename = f"{part_num}_{color_id}.jpg"
         succes = False
 
