@@ -112,6 +112,7 @@ def add_user_set(access_token: str, set_num: str) -> dict:
         response = httpx.post(
             f"{API_BASE_URL}/sets/{set_num}",
             headers={"Authorization": f"Bearer {access_token}"},
+            timeout=30.0,
         )
         response.raise_for_status()
     except httpx.HTTPStatusError as e:
@@ -161,6 +162,7 @@ def get_user_set(access_token: str, user_set_id: int) -> dict | None:
         response = httpx.get(
             f"{API_BASE_URL}/sets/{user_set_id}",
             headers={"Authorization": f"Bearer {access_token}"},
+            timeout=30.0,
         )
         if response.status_code == 404:
             return None

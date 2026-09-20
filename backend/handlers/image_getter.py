@@ -51,11 +51,7 @@ class ImageGetter(ABC):
         pass
 
     def get_image(self):
-        """Downloads the image if it does not already exist locally.
-
-        Returns:
-            A tuple of (success, message).
-        """
+        """Downloads the image if it does not already exist locally."""
         self.destination_path = self.get_destination_path()
 
         if self.destination_path.exists():
@@ -65,22 +61,29 @@ class ImageGetter(ABC):
             return False, "No valid url"
 
         try:
-            r = self.client.head(self.url, follow_redirects=True)
-            size = r.headers.get("Content-Length")
-            if size and int(size) > self.max_MB * 1024 * 1024:
-                raise ValueError(f"Image exceptionally large ({int(size) / 1024 / 1024}), check url: {self.url}")
-
-            response = self.client.get(self.url)
+            response = self.client.get(
+                self.url,
+                follow_redirects=True,
+            )
             response.raise_for_status()
+
+            content_length = response.headers.get("Content-Length")
+            if content_length and int(content_length) > self.max_MB * 1024 * 1024:
+                raise ValueError(f"Image exceptionally large ({int(content_length) / 1024 / 1024:.2f} MB), check url: {self.url}")
 
             with open(self.destination_path, "wb") as f:
                 f.write(response.content)
 
-            return True, "Image download succesfull"
+            return True, "Image download successful"
 
         except Exception as e:
-            logger.error("Failed to download image %s: %s", self.url, e, exc_info=True)
-            return False, f"Error while downloaden image {self.url} {e}"
+            logger.error(
+                "Failed to download image %s: %s",
+                self.url,
+                e,
+                exc_info=True,
+            )
+            return False, f"Error while downloading image {self.url}: {e}"
 
 
 class RebrickableImageGetter(ImageGetter):
