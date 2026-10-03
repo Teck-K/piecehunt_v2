@@ -18,7 +18,7 @@ class MissingPartsReportDialog(wx.Frame):
     """Dialog showing a missing parts report for all sets of the current user.
 
     Displays a list of sets with checkboxes to select which sets to include
-    in the export. Supports PDF and Excel export, with optional mail delivery.
+    in the export. Supports PDF, Excel and CSV export, with optional mail delivery.
 
     Args:
         parent: The parent frame (mainframe).
@@ -91,11 +91,15 @@ class MissingPartsReportDialog(wx.Frame):
         self.btn_excel = wx.Button(panel, label="Export Excel ▾")
         self.btn_excel.Bind(wx.EVT_BUTTON, self.on_excel_menu)
 
+        self.btn_csv = wx.Button(panel, label="Export CSV ▾")
+        self.btn_csv.Bind(wx.EVT_BUTTON, self.on_csv_menu)
+
         btn_close = wx.Button(panel, wx.ID_CLOSE, "Close")
         btn_close.Bind(wx.EVT_BUTTON, self.on_close)
 
         btn_sizer.Add(self.btn_pdf, 0, wx.ALL, 5)
         btn_sizer.Add(self.btn_excel, 0, wx.ALL, 5)
+        btn_sizer.Add(self.btn_csv, 0, wx.ALL, 5)
         btn_sizer.AddStretchSpacer()
         btn_sizer.Add(btn_close, 0, wx.ALL, 5)
 
@@ -113,7 +117,7 @@ class MissingPartsReportDialog(wx.Frame):
 
         Filters out completed sets if the toggle is off.
         Respects the include_spares toggle when retrieving quantities.
-        All visible sets are checked by default.
+        All visible sets are unchecked by default.
         """
         include_spares = self.chk_spares.GetValue()
         show_completed = self.chk_completed.GetValue()
@@ -290,6 +294,22 @@ class MissingPartsReportDialog(wx.Frame):
         self.btn_excel.PopupMenu(menu)
         menu.Destroy()
 
+    def on_csv_menu(self, event):
+        """Shows a context menu with CSV export options.
+
+        Args:
+            event: The button event.
+        """
+        menu = wx.Menu()
+        item_save = menu.Append(wx.ID_ANY, "Save to file")
+        item_save_mail = menu.Append(wx.ID_ANY, "Save + Send by mail")
+
+        self.Bind(wx.EVT_MENU, self._on_export_csv, item_save)
+        self.Bind(wx.EVT_MENU, lambda e: self._on_export_csv(e, send_mail=True), item_save_mail)
+
+        self.btn_csv.PopupMenu(menu)
+        menu.Destroy()
+
     def _on_export_pdf(self, event, send_mail: bool = False):
         """Generates a PDF report and optionally mails it.
 
@@ -385,6 +405,53 @@ class MissingPartsReportDialog(wx.Frame):
             )
         finally:
             self.btn_excel.Enable(True)
+
+    def _on_export_csv(self, event, send_mail: bool = False):
+        """Generates a CSV report and optionally mails it.
+
+        Args:
+            event: The menu event.
+            send_mail: Whether to send the report by email after saving.
+        """
+        if not self._validate_selection():
+            return
+
+        logger.debug("CSV export — send_mail=%s", send_mail)
+        self.btn_csv.Enable(False)
+
+        try:
+            from backend.reports.csv_report import generate_missing_parts_csv
+
+            data = self._get_report_data()
+            if data is None:
+                return
+
+            path = generate_missing_parts_csv(
+                data,
+                username=self.user_handler.auth_session.email,
+            )
+
+            wx.LaunchDefaultApplication(str(path))
+
+            if send_mail:
+                self._send_report_mail(path, data)
+                wx.MessageBox(
+                    f"Report saved and sent to {self.user_handler.auth_session.email}.",
+                    "Mail Sent",
+                    wx.OK | wx.ICON_INFORMATION,
+                )
+
+            logger.info("CSV export complete: %s", path.name)
+
+        except Exception as e:
+            logger.error("CSV export failed: %s", e, exc_info=True)
+            wx.MessageBox(
+                "Could not generate CSV file.\nPlease try again later.",
+                "Error",
+                wx.OK | wx.ICON_ERROR,
+            )
+        finally:
+            self.btn_csv.Enable(True)
 
     def on_close(self, event):
         """Closes the report dialog.

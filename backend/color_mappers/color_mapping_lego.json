@@ -1,0 +1,2060 @@
+{
+    "-1": {
+        "ext_ids": [
+            125,
+            158
+        ],
+        "ext_descrs": [
+            [
+                "Light Orange"
+            ],
+            [
+                "Tr. Flu. Red"
+            ]
+        ]
+    },
+    "0": {
+        "ext_ids": [
+            26,
+            342
+        ],
+        "ext_descrs": [
+            [
+                "Black",
+                "BLACK"
+            ],
+            [
+                "CONDUCT. BLACK"
+            ]
+        ]
+    },
+    "1": {
+        "ext_ids": [
+            23
+        ],
+        "ext_descrs": [
+            [
+                "Bright Blue",
+                "BR.BLUE"
+            ]
+        ]
+    },
+    "2": {
+        "ext_ids": [
+            28
+        ],
+        "ext_descrs": [
+            [
+                "Dark green",
+                "DK.GREEN"
+            ]
+        ]
+    },
+    "3": {
+        "ext_ids": [
+            107
+        ],
+        "ext_descrs": [
+            [
+                "Bright bluish green",
+                "BR.BLUEGREEN"
+            ]
+        ]
+    },
+    "4": {
+        "ext_ids": [
+            21
+        ],
+        "ext_descrs": [
+            [
+                "Bright red",
+                "BR.RED"
+            ]
+        ]
+    },
+    "5": {
+        "ext_ids": [
+            221
+        ],
+        "ext_descrs": [
+            [
+                "Bright Purple",
+                "BR. PURPLE"
+            ]
+        ]
+    },
+    "6": {
+        "ext_ids": [
+            25
+        ],
+        "ext_descrs": [
+            [
+                "Earth Orange",
+                "EARTH-ORA"
+            ]
+        ]
+    },
+    "7": {
+        "ext_ids": [
+            2
+        ],
+        "ext_descrs": [
+            [
+                "Grey"
+            ]
+        ]
+    },
+    "8": {
+        "ext_ids": [
+            27
+        ],
+        "ext_descrs": [
+            [
+                "Dark grey",
+                "DK.GREY"
+            ]
+        ]
+    },
+    "9": {
+        "ext_ids": [
+            45
+        ],
+        "ext_descrs": [
+            [
+                "Light blue"
+            ]
+        ]
+    },
+    "10": {
+        "ext_ids": [
+            37
+        ],
+        "ext_descrs": [
+            [
+                "Bright Green",
+                "BR.GREEN"
+            ]
+        ]
+    },
+    "11": {
+        "ext_ids": [
+            116
+        ],
+        "ext_descrs": [
+            [
+                "Med. bluish green",
+                "MD.BL-GREEN"
+            ]
+        ]
+    },
+    "12": {
+        "ext_ids": [
+            101
+        ],
+        "ext_descrs": [
+            [
+                "Medium Red"
+            ]
+        ]
+    },
+    "13": {
+        "ext_ids": [
+            9
+        ],
+        "ext_descrs": [
+            [
+                "L.REDVIOL"
+            ]
+        ]
+    },
+    "14": {
+        "ext_ids": [
+            24
+        ],
+        "ext_descrs": [
+            [
+                "Bright yellow",
+                "BR.YEL",
+                "BRIGHT YELLOW, VERSION 2"
+            ]
+        ]
+    },
+    "15": {
+        "ext_ids": [
+            1
+        ],
+        "ext_descrs": [
+            [
+                "White",
+                "WHITE V.3"
+            ]
+        ]
+    },
+    "17": {
+        "ext_ids": [
+            6
+        ],
+        "ext_descrs": [
+            [
+                "Light green",
+                "L.GREEN"
+            ]
+        ]
+    },
+    "18": {
+        "ext_ids": [
+            3
+        ],
+        "ext_descrs": [
+            [
+                "Light yellow"
+            ]
+        ]
+    },
+    "19": {
+        "ext_ids": [
+            5
+        ],
+        "ext_descrs": [
+            [
+                "Brick yellow",
+                "BRICK-YEL"
+            ]
+        ]
+    },
+    "20": {
+        "ext_ids": [
+            39
+        ],
+        "ext_descrs": [
+            [
+                "Light bluish violet",
+                "L.BLUEVIOL"
+            ]
+        ]
+    },
+    "21": {
+        "ext_ids": [
+            50
+        ],
+        "ext_descrs": [
+            [
+                "Phosp. White",
+                "PHOS.WHITE"
+            ]
+        ]
+    },
+    "22": {
+        "ext_ids": [
+            104
+        ],
+        "ext_descrs": [
+            [
+                "Bright violet",
+                "BR. VIOLET"
+            ]
+        ]
+    },
+    "23": {
+        "ext_ids": [
+            196
+        ],
+        "ext_descrs": [
+            [
+                "Dark Royal blue",
+                "DK. R.BLUE"
+            ]
+        ]
+    },
+    "25": {
+        "ext_ids": [
+            106
+        ],
+        "ext_descrs": [
+            [
+                "Bright orange",
+                "BR.ORANGE"
+            ]
+        ]
+    },
+    "26": {
+        "ext_ids": [
+            124
+        ],
+        "ext_descrs": [
+            [
+                "Bright reddish violet",
+                "BR.RED-VIOL."
+            ]
+        ]
+    },
+    "27": {
+        "ext_ids": [
+            119
+        ],
+        "ext_descrs": [
+            [
+                "Br. yellowish green",
+                "BR.YEL-GREEN",
+                "BRIGHT YELLOWISH GREEN"
+            ]
+        ]
+    },
+    "28": {
+        "ext_ids": [
+            138
+        ],
+        "ext_descrs": [
+            [
+                "Sand yellow"
+            ]
+        ]
+    },
+    "29": {
+        "ext_ids": [
+            222
+        ],
+        "ext_descrs": [
+            [
+                "Light Purple",
+                "LGH. PURPLE"
+            ]
+        ]
+    },
+    "30": {
+        "ext_ids": [
+            324
+        ],
+        "ext_descrs": [
+            [
+                "Medium Lavender",
+                "MEDIUM LAVENDEL"
+            ]
+        ]
+    },
+    "31": {
+        "ext_ids": [
+            325
+        ],
+        "ext_descrs": [
+            [
+                "Lavender"
+            ]
+        ]
+    },
+    "32": {
+        "ext_ids": [
+            109,
+            355
+        ],
+        "ext_descrs": [
+            [
+                "Black IR"
+            ],
+            [
+                "Tr.Black IR"
+            ]
+        ]
+    },
+    "33": {
+        "ext_ids": [
+            43
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Blue",
+                "TR.BLUE"
+            ]
+        ]
+    },
+    "34": {
+        "ext_ids": [
+            48
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Green",
+                "TR.GREEN"
+            ]
+        ]
+    },
+    "35": {
+        "ext_ids": [
+            311
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Bright Green",
+                "TR. BR. GREEN"
+            ]
+        ]
+    },
+    "36": {
+        "ext_ids": [
+            41
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Red",
+                "TR.RED"
+            ]
+        ]
+    },
+    "40": {
+        "ext_ids": [
+            111
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Brown",
+                "TR.BROWN"
+            ]
+        ]
+    },
+    "41": {
+        "ext_ids": [
+            42
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Lg blue",
+                "TR.L.BLUE",
+                "TR. LIGHT BLUE"
+            ]
+        ]
+    },
+    "42": {
+        "ext_ids": [
+            49
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Flu. Green",
+                "TR.FL.GREEN"
+            ]
+        ]
+    },
+    "43": {
+        "ext_ids": [
+            229
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Light Bluish Green",
+                "TR. LGH. BL. GR"
+            ]
+        ]
+    },
+    "45": {
+        "ext_ids": [
+            113
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Medi. reddish violet",
+                "TR.ML.R.VIOL"
+            ]
+        ]
+    },
+    "46": {
+        "ext_ids": [
+            44
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Yellow",
+                "TR.YEL"
+            ]
+        ]
+    },
+    "47": {
+        "ext_ids": [
+            40
+        ],
+        "ext_descrs": [
+            [
+                "Transparent",
+                "TR."
+            ]
+        ]
+    },
+    "52": {
+        "ext_ids": [
+            126
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Bright bluish violet",
+                "TR.KL.BL.VIO"
+            ]
+        ]
+    },
+    "54": {
+        "ext_ids": [
+            157
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Fluorescent Yellow"
+            ]
+        ]
+    },
+    "57": {
+        "ext_ids": [
+            47
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Flu. Reddish orange",
+                "TR.FL.REDORA"
+            ]
+        ]
+    },
+    "68": {
+        "ext_ids": [
+            36
+        ],
+        "ext_descrs": [
+            [
+                "Light Yellowish Orange"
+            ]
+        ]
+    },
+    "69": {
+        "ext_ids": [
+            198
+        ],
+        "ext_descrs": [
+            [
+                "Bright Reddish Lilac",
+                "BR. RED. LILAC"
+            ]
+        ]
+    },
+    "70": {
+        "ext_ids": [
+            192
+        ],
+        "ext_descrs": [
+            [
+                "Reddish Brown",
+                "RED. BROWN"
+            ]
+        ]
+    },
+    "71": {
+        "ext_ids": [
+            194
+        ],
+        "ext_descrs": [
+            [
+                "Medium stone grey",
+                "MED. ST-GREY"
+            ]
+        ]
+    },
+    "72": {
+        "ext_ids": [
+            199
+        ],
+        "ext_descrs": [
+            [
+                "Dark stone grey",
+                "DK. ST. GREY"
+            ]
+        ]
+    },
+    "73": {
+        "ext_ids": [
+            102
+        ],
+        "ext_descrs": [
+            [
+                "Medium blue",
+                "MD.BLUE"
+            ]
+        ]
+    },
+    "74": {
+        "ext_ids": [
+            29
+        ],
+        "ext_descrs": [
+            [
+                "Medium green",
+                "MD.GREEN"
+            ]
+        ]
+    },
+    "75": {
+        "ext_ids": [
+            306
+        ],
+        "ext_descrs": [
+            [
+                "COP. DIF."
+            ]
+        ]
+    },
+    "76": {
+        "ext_ids": [
+            304
+        ],
+        "ext_descrs": [
+            [
+                "CO. SILVER DIF"
+            ]
+        ]
+    },
+    "77": {
+        "ext_ids": [
+            223,
+            17
+        ],
+        "ext_descrs": [
+            [
+                "Light Pink"
+            ],
+            [
+                "Rose"
+            ]
+        ]
+    },
+    "78": {
+        "ext_ids": [
+            283
+        ],
+        "ext_descrs": [
+            [
+                "Light Nougat",
+                "L.NOUGAT"
+            ]
+        ]
+    },
+    "79": {
+        "ext_ids": [
+            20
+        ],
+        "ext_descrs": [
+            [
+                "Nature"
+            ]
+        ]
+    },
+    "80": {
+        "ext_ids": [
+            336,
+            298
+        ],
+        "ext_descrs": [
+            [
+                "SILVER INK"
+            ],
+            [
+                "C.SILVER, DR. L"
+            ]
+        ]
+    },
+    "82": {
+        "ext_ids": [
+            335,
+            299
+        ],
+        "ext_descrs": [
+            [
+                "GOLD INK"
+            ],
+            [
+                "W.GOLD, DR.LA."
+            ]
+        ]
+    },
+    "84": {
+        "ext_ids": [
+            312
+        ],
+        "ext_descrs": [
+            [
+                "Medium Nougat",
+                "M. NOUGAT"
+            ]
+        ]
+    },
+    "85": {
+        "ext_ids": [
+            268
+        ],
+        "ext_descrs": [
+            [
+                "Medium Lilac",
+                "M. LILAC"
+            ]
+        ]
+    },
+    "86": {
+        "ext_ids": [
+            217
+        ],
+        "ext_descrs": [
+            [
+                "BROWN"
+            ]
+        ]
+    },
+    "89": {
+        "ext_ids": [
+            195
+        ],
+        "ext_descrs": [
+            [
+                "R. BLUE"
+            ]
+        ]
+    },
+    "92": {
+        "ext_ids": [
+            18
+        ],
+        "ext_descrs": [
+            [
+                "Nougat"
+            ]
+        ]
+    },
+    "100": {
+        "ext_ids": [
+            100
+        ],
+        "ext_descrs": [
+            [
+                "Light red"
+            ]
+        ]
+    },
+    "110": {
+        "ext_ids": [
+            110
+        ],
+        "ext_descrs": [
+            [
+                "Bright Bluish Violet",
+                "BR.BLUEVIOL"
+            ]
+        ]
+    },
+    "112": {
+        "ext_ids": [
+            112,
+            213
+        ],
+        "ext_descrs": [
+            [
+                "Medium Bluish Violet",
+                "ML.BLUEVIOL"
+            ],
+            [
+                "Medium Royal Blue"
+            ]
+        ]
+    },
+    "114": {
+        "ext_ids": [
+            114
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Medium Reddish-Violet w. Glitter 2%",
+                "TR.M.R.V.GLI"
+            ]
+        ]
+    },
+    "115": {
+        "ext_ids": [
+            115
+        ],
+        "ext_descrs": [
+            [
+                "Med. yellowish green",
+                "MD.YEL-GREEN"
+            ]
+        ]
+    },
+    "117": {
+        "ext_ids": [
+            117,
+            122
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Glitter",
+                "TR.W.GLITTER"
+            ],
+            [
+                "Nature with Glitter"
+            ]
+        ]
+    },
+    "118": {
+        "ext_ids": [
+            118
+        ],
+        "ext_descrs": [
+            [
+                "Light bluish green",
+                "L.BLUE-GREEN"
+            ]
+        ]
+    },
+    "120": {
+        "ext_ids": [
+            120
+        ],
+        "ext_descrs": [
+            [
+                "Lig. yellowish green",
+                "L.YEL-GREEN"
+            ]
+        ]
+    },
+    "125": {
+        "ext_ids": [
+            121
+        ],
+        "ext_descrs": [
+            [
+                "Medium Yellowish Orange"
+            ]
+        ]
+    },
+    "129": {
+        "ext_ids": [
+            129
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Bright Bluish Violet w. Glitter 2%",
+                "TR.BR.BL.V.G"
+            ]
+        ]
+    },
+    "132": {
+        "ext_ids": [
+            304
+        ],
+        "ext_descrs": [
+            [
+                "CO. SILVER DIF"
+            ]
+        ]
+    },
+    "133": {
+        "ext_ids": [
+            305
+        ],
+        "ext_descrs": [
+            [
+                "Warm Gold, Diffuse"
+            ]
+        ]
+    },
+    "134": {
+        "ext_ids": [
+            139
+        ],
+        "ext_descrs": [
+            [
+                "Copper"
+            ]
+        ]
+    },
+    "135": {
+        "ext_ids": [
+            296,
+            131
+        ],
+        "ext_descrs": [
+            [
+                "Cool silver"
+            ],
+            [
+                "Silver"
+            ]
+        ]
+    },
+    "137": {
+        "ext_ids": [
+            145
+        ],
+        "ext_descrs": [
+            [
+                "Sand blue metallic",
+                "MET.SAND.BLU"
+            ]
+        ]
+    },
+    "142": {
+        "ext_ids": [
+            127
+        ],
+        "ext_descrs": [
+            [
+                "Gold"
+            ]
+        ]
+    },
+    "143": {
+        "ext_ids": [
+            143
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Flu. Blue",
+                "TR.FL. BLUE"
+            ]
+        ]
+    },
+    "148": {
+        "ext_ids": [
+            148
+        ],
+        "ext_descrs": [
+            [
+                "Mettalic Dark Grey",
+                "MET.DK.GREY"
+            ]
+        ]
+    },
+    "150": {
+        "ext_ids": [
+            150
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Light Gray"
+            ]
+        ]
+    },
+    "151": {
+        "ext_ids": [
+            208
+        ],
+        "ext_descrs": [
+            [
+                "Light stone grey",
+                "LGH. ST. GREY"
+            ]
+        ]
+    },
+    "158": {
+        "ext_ids": [
+            326
+        ],
+        "ext_descrs": [
+            [
+                "Spring Yellow Green",
+                "SPR. YELL. GREE"
+            ]
+        ]
+    },
+    "178": {
+        "ext_ids": [
+            147
+        ],
+        "ext_descrs": [
+            [
+                "Gold Metallic",
+                "MET.SAND.YEL"
+            ]
+        ]
+    },
+    "179": {
+        "ext_ids": [
+            315
+        ],
+        "ext_descrs": [
+            [
+                "Silver Metallic",
+                "SILVER MET."
+            ]
+        ]
+    },
+    "182": {
+        "ext_ids": [
+            182
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Bright Orange",
+                "TR. BR. ORANGE"
+            ]
+        ]
+    },
+    "183": {
+        "ext_ids": [
+            183
+        ],
+        "ext_descrs": [
+            [
+                "Metallic White",
+                "MET. WHITE"
+            ]
+        ]
+    },
+    "191": {
+        "ext_ids": [
+            191
+        ],
+        "ext_descrs": [
+            [
+                "Flame yellowish orange",
+                "FL. YELL-ORA",
+                "COMPD. FLAME YELLOWISH ORANGE"
+            ]
+        ]
+    },
+    "212": {
+        "ext_ids": [
+            212
+        ],
+        "ext_descrs": [
+            [
+                "Light Royal blue",
+                "LGH. ROY. BLUE"
+            ]
+        ]
+    },
+    "226": {
+        "ext_ids": [
+            226
+        ],
+        "ext_descrs": [
+            [
+                "Cool Yellow",
+                "COOL YEL.",
+                "COMPD. COOL YELLOW V.3"
+            ]
+        ]
+    },
+    "230": {
+        "ext_ids": [
+            230
+        ],
+        "ext_descrs": [
+            [
+                "TR. BR. PURPLE"
+            ]
+        ]
+    },
+    "232": {
+        "ext_ids": [
+            232
+        ],
+        "ext_descrs": [
+            [
+                "Dove blue",
+                "DO. BLUE"
+            ]
+        ]
+    },
+    "236": {
+        "ext_ids": [
+            284
+        ],
+        "ext_descrs": [
+            [
+                "TR. RED-LILAC",
+                "TR. RE-LILAC"
+            ]
+        ]
+    },
+    "272": {
+        "ext_ids": [
+            140,
+            428
+        ],
+        "ext_descrs": [
+            [
+                "Earth blue"
+            ],
+            [
+                "Earth Blue V.3."
+            ]
+        ]
+    },
+    "288": {
+        "ext_ids": [
+            141
+        ],
+        "ext_descrs": [
+            [
+                "Earth Green",
+                "EARTH GREEN"
+            ]
+        ]
+    },
+    "294": {
+        "ext_ids": [
+            294
+        ],
+        "ext_descrs": [
+            [
+                "Phosphorescent Green",
+                "PH.GREEN"
+            ]
+        ]
+    },
+    "297": {
+        "ext_ids": [
+            297
+        ],
+        "ext_descrs": [
+            [
+                "Warm Gold",
+                "W.GOLD"
+            ]
+        ]
+    },
+    "308": {
+        "ext_ids": [
+            308
+        ],
+        "ext_descrs": [
+            [
+                "Dark Brown",
+                "DK. BROWN"
+            ]
+        ]
+    },
+    "320": {
+        "ext_ids": [
+            154
+        ],
+        "ext_descrs": [
+            [
+                "Dark red",
+                "NEW DARK RED"
+            ]
+        ]
+    },
+    "321": {
+        "ext_ids": [
+            321
+        ],
+        "ext_descrs": [
+            [
+                "Dark Azur"
+            ]
+        ]
+    },
+    "322": {
+        "ext_ids": [
+            322,
+            491
+        ],
+        "ext_descrs": [
+            [
+                "Medium Azure",
+                "MEDIUM AZUR"
+            ],
+            []
+        ]
+    },
+    "323": {
+        "ext_ids": [
+            323
+        ],
+        "ext_descrs": [
+            [
+                "Aqua"
+            ]
+        ]
+    },
+    "326": {
+        "ext_ids": [
+            330
+        ],
+        "ext_descrs": [
+            [
+                "Olive Green",
+                "OLIVE GREEN"
+            ]
+        ]
+    },
+    "334": {
+        "ext_ids": [
+            310
+        ],
+        "ext_descrs": [
+            [
+                "Metalized Gold"
+            ]
+        ]
+    },
+    "335": {
+        "ext_ids": [
+            153
+        ],
+        "ext_descrs": [
+            [
+                "Sand red"
+            ]
+        ]
+    },
+    "351": {
+        "ext_ids": [
+            22
+        ],
+        "ext_descrs": [
+            [
+                "Medium Reddish Violet",
+                "MD.REDVIOL"
+            ]
+        ]
+    },
+    "366": {
+        "ext_ids": [
+            12
+        ],
+        "ext_descrs": [
+            [
+                "L.ORABROWN"
+            ]
+        ]
+    },
+    "373": {
+        "ext_ids": [
+            136
+        ],
+        "ext_descrs": [
+            [
+                "Sand violet"
+            ]
+        ]
+    },
+    "378": {
+        "ext_ids": [
+            151
+        ],
+        "ext_descrs": [
+            [
+                "Sand green"
+            ]
+        ]
+    },
+    "379": {
+        "ext_ids": [
+            135
+        ],
+        "ext_descrs": [
+            [
+                "Sand blue"
+            ]
+        ]
+    },
+    "383": {
+        "ext_ids": [
+            309
+        ],
+        "ext_descrs": [
+            [
+                "Metalized Silver"
+            ]
+        ]
+    },
+    "450": {
+        "ext_ids": [
+            4
+        ],
+        "ext_descrs": [
+            [
+                "Brick Red"
+            ]
+        ]
+    },
+    "462": {
+        "ext_ids": [
+            105
+        ],
+        "ext_descrs": [
+            [
+                "Br. yellowish orange",
+                "BR.YELORA"
+            ]
+        ]
+    },
+    "484": {
+        "ext_ids": [
+            38
+        ],
+        "ext_descrs": [
+            [
+                "Dark Orange",
+                "DK.ORA"
+            ]
+        ]
+    },
+    "503": {
+        "ext_ids": [
+            103
+        ],
+        "ext_descrs": [
+            [
+                "Light grey"
+            ]
+        ]
+    },
+    "1000": {
+        "ext_ids": [
+            329
+        ],
+        "ext_descrs": [
+            [
+                "WHITE GLOW"
+            ]
+        ]
+    },
+    "1001": {
+        "ext_ids": [
+            219
+        ],
+        "ext_descrs": [
+            [
+                "Lilac"
+            ]
+        ]
+    },
+    "1002": {
+        "ext_ids": [
+            339
+        ],
+        "ext_descrs": [
+            [
+                "TR.FL.GRE W/GLI"
+            ]
+        ]
+    },
+    "1003": {
+        "ext_ids": [
+            302
+        ],
+        "ext_descrs": [
+            [
+                "PCTR LI.BLUE W/",
+                "TR LI.BLUE W/"
+            ]
+        ]
+    },
+    "1004": {
+        "ext_ids": [
+            231
+        ],
+        "ext_descrs": [
+            [
+                "TR. FL. YEL ORA"
+            ]
+        ]
+    },
+    "1005": {
+        "ext_ids": [
+            234
+        ],
+        "ext_descrs": [
+            [
+                "TR. FIRE YELL"
+            ]
+        ]
+    },
+    "1006": {
+        "ext_ids": [
+            293
+        ],
+        "ext_descrs": [
+            [
+                "TR. L.ROYAL BLUE",
+                "TR.L.ROYAL BLUE"
+            ]
+        ]
+    },
+    "1007": {
+        "ext_ids": [
+            218
+        ],
+        "ext_descrs": [
+            [
+                "RED. LILAC"
+            ]
+        ]
+    },
+    "1012": {
+        "ext_ids": [
+            19
+        ],
+        "ext_descrs": [
+            [
+                "Light Brown"
+            ]
+        ]
+    },
+    "1050": {
+        "ext_ids": [
+            353
+        ],
+        "ext_descrs": [
+            [
+                "Coral",
+                "Vibrant Coral"
+            ]
+        ]
+    },
+    "1051": {
+        "ext_ids": [
+            11
+        ],
+        "ext_descrs": [
+            [
+                "Pastel Blue",
+                "PASTBLU"
+            ]
+        ]
+    },
+    "1052": {
+        "ext_ids": [
+            341
+        ],
+        "ext_descrs": [
+            [
+                "TR.BR:ORA W/GLI"
+            ]
+        ]
+    },
+    "1053": {
+        "ext_ids": [
+            362
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Blue Opal",
+                "TR.BLUE OPAL"
+            ]
+        ]
+    },
+    "1054": {
+        "ext_ids": [
+            364
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Medium Reddish Violet with Opalescence",
+                "Tr.M.Violet Opa"
+            ]
+        ]
+    },
+    "1055": {
+        "ext_ids": [
+            360
+        ],
+        "ext_descrs": [
+            [
+                "Transparent with Opalescence",
+                "Tr. Opalescence"
+            ]
+        ]
+    },
+    "1056": {
+        "ext_ids": [
+            363
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Brown With Opalescence"
+            ]
+        ]
+    },
+    "1057": {
+        "ext_ids": [
+            227
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Bright Yellowish Green",
+                "TR. BR. YEL GR"
+            ]
+        ]
+    },
+    "1058": {
+        "ext_ids": [
+            285
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Light Green"
+            ]
+        ]
+    },
+    "1059": {
+        "ext_ids": [
+            365
+        ],
+        "ext_descrs": [
+            [
+                "Tr.Violet Opal"
+            ]
+        ]
+    },
+    "1060": {
+        "ext_ids": [
+            367
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Green With Opalescence"
+            ]
+        ]
+    },
+    "1061": {
+        "ext_ids": [
+            366
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Blue With Opalescence"
+            ]
+        ]
+    },
+    "1062": {
+        "ext_ids": [
+            368
+        ],
+        "ext_descrs": [
+            [
+                "Vibrant Yellow"
+            ]
+        ]
+    },
+    "1063": {
+        "ext_ids": [
+            346
+        ],
+        "ext_descrs": [
+            [
+                "Copper Metallic"
+            ]
+        ]
+    },
+    "1064": {
+        "ext_ids": [
+            13
+        ],
+        "ext_descrs": [
+            [
+                "Red Orange"
+            ]
+        ]
+    },
+    "1065": {
+        "ext_ids": [
+            189
+        ],
+        "ext_descrs": [
+            [
+                "Reddish Gold",
+                "Gold Metallic"
+            ]
+        ]
+    },
+    "1066": {
+        "ext_ids": [
+            180
+        ],
+        "ext_descrs": [
+            [
+                "Curry"
+            ]
+        ]
+    },
+    "1067": {
+        "ext_ids": [
+            128
+        ],
+        "ext_descrs": [
+            [
+                "Dark Nougat",
+                "DARK NOUGAT"
+            ]
+        ]
+    },
+    "1068": {
+        "ext_ids": [
+            123
+        ],
+        "ext_descrs": [
+            [
+                "Bright Reddish Orange"
+            ]
+        ]
+    },
+    "1069": {
+        "ext_ids": [
+            184
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Bright Red",
+                "MET. BR. RED"
+            ]
+        ]
+    },
+    "1070": {
+        "ext_ids": [
+            185
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Bright Blue",
+                "MET. BR. BLUE"
+            ]
+        ]
+    },
+    "1071": {
+        "ext_ids": [
+            186
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Dark Green",
+                "MET. DK. GREEN"
+            ]
+        ]
+    },
+    "1072": {
+        "ext_ids": [
+            187
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Earth Orange",
+                "MET. EAR.ORA"
+            ]
+        ]
+    },
+    "1073": {
+        "ext_ids": [
+            149
+        ],
+        "ext_descrs": [
+            [
+                "Metallic Black",
+                "MET.BLACK"
+            ]
+        ]
+    },
+    "1074": {
+        "ext_ids": [
+            188
+        ],
+        "ext_descrs": [
+            [
+                "Tiny Blue"
+            ]
+        ]
+    },
+    "1075": {
+        "ext_ids": [
+            269
+        ],
+        "ext_descrs": [
+            [
+                "Tiny-Medium Blue"
+            ]
+        ]
+    },
+    "1076": {
+        "ext_ids": [
+            15
+        ],
+        "ext_descrs": [
+            [
+                "Lemon"
+            ]
+        ]
+    },
+    "1077": {
+        "ext_ids": [
+            14
+        ],
+        "ext_descrs": [
+            [
+                "Pastel Green"
+            ]
+        ]
+    },
+    "1078": {
+        "ext_ids": [
+            210
+        ],
+        "ext_descrs": [
+            [
+                "Faded Green"
+            ]
+        ]
+    },
+    "1079": {
+        "ext_ids": [
+            233
+        ],
+        "ext_descrs": [
+            [
+                "Light Faded Green"
+            ]
+        ]
+    },
+    "1080": {
+        "ext_ids": [
+            224
+        ],
+        "ext_descrs": [
+            [
+                "Light Brick Yellow"
+            ]
+        ]
+    },
+    "1081": {
+        "ext_ids": [
+            216
+        ],
+        "ext_descrs": [
+            [
+                "Rust"
+            ]
+        ]
+    },
+    "1082": {
+        "ext_ids": [
+            295
+        ],
+        "ext_descrs": [
+            [
+                "Flamingo Pink"
+            ]
+        ]
+    },
+    "1083": {
+        "ext_ids": [
+            176
+        ],
+        "ext_descrs": [
+            [
+                "Red Flip/Flop"
+            ]
+        ]
+    },
+    "1084": {
+        "ext_ids": [
+            178
+        ],
+        "ext_descrs": [
+            [
+                "Yellow Flip/Flop"
+            ]
+        ]
+    },
+    "1085": {
+        "ext_ids": [
+            179
+        ],
+        "ext_descrs": [
+            [
+                "Silver Flip/Flop"
+            ]
+        ]
+    },
+    "1086": {
+        "ext_ids": [
+            200
+        ],
+        "ext_descrs": [
+            [
+                "Lemon Metallic"
+            ]
+        ]
+    },
+    "1087": {
+        "ext_ids": [
+            16
+        ],
+        "ext_descrs": [
+            [
+                "Pink"
+            ]
+        ]
+    },
+    "1088": {
+        "ext_ids": [
+            370
+        ],
+        "ext_descrs": [
+            [
+                "Medium Brown"
+            ]
+        ]
+    },
+    "1089": {
+        "ext_ids": [
+            371
+        ],
+        "ext_descrs": [
+            [
+                "Warm Tan"
+            ]
+        ]
+    },
+    "1091": {
+        "ext_ids": [
+            225
+        ],
+        "ext_descrs": [
+            [
+                "Warm Yellowish Orange"
+            ]
+        ]
+    },
+    "1092": {
+        "ext_ids": [
+            300,
+            334
+        ],
+        "ext_descrs": [
+            [
+                "COPPER, DR.LA."
+            ],
+            [
+                "COPPER INK"
+            ]
+        ]
+    },
+    "1093": {
+        "ext_ids": [
+            220
+        ],
+        "ext_descrs": [
+            [
+                "Light Lilac"
+            ]
+        ]
+    },
+    "1094": {
+        "ext_ids": [
+            236
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Bright Reddish Lilac"
+            ]
+        ]
+    },
+    "1095": {
+        "ext_ids": [
+            375
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Black"
+            ]
+        ]
+    },
+    "1096": {
+        "ext_ids": [
+            351
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Bright Green w/ Glitter"
+            ]
+        ]
+    },
+    "1097": {
+        "ext_ids": [
+            303
+        ],
+        "ext_descrs": [
+            [
+                "Trans Br Reddish Lilac w/ Glitter"
+            ]
+        ]
+    },
+    "1098": {
+        "ext_ids": [
+            155,
+            175
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Green with Glitter"
+            ],
+            [
+                "Transparent Green with Glitter"
+            ]
+        ]
+    },
+    "1099": {
+        "ext_ids": [
+            301
+        ],
+        "ext_descrs": [
+            [
+                "Trans Bright Purple w/ Glitter"
+            ]
+        ]
+    },
+    "1100": {
+        "ext_ids": [
+            190
+        ],
+        "ext_descrs": [
+            [
+                "Fire Yellow"
+            ]
+        ]
+    },
+    "1101": {
+        "ext_ids": [
+            197
+        ],
+        "ext_descrs": [
+            [
+                "Bright Lilac"
+            ]
+        ]
+    },
+    "1102": {
+        "ext_ids": [
+            158
+        ],
+        "ext_descrs": [
+            [
+                "Transparent Fluorescent Red"
+            ]
+        ]
+    },
+    "1103": {
+        "ext_ids": [
+            316
+        ],
+        "ext_descrs": [
+            [
+                "Titanium Metallic",
+                "TITAN. METAL."
+            ]
+        ]
+    },
+    "1136": {
+        "ext_ids": [
+            402
+        ],
+        "ext_descrs": [
+            [
+                "Red. Orange"
+            ]
+        ]
+    },
+    "1137": {
+        "ext_ids": [
+            422
+        ],
+        "ext_descrs": [
+            [
+                "Sienna Brown"
+            ]
+        ]
+    },
+    "1138": {
+        "ext_ids": [
+            423
+        ],
+        "ext_descrs": [
+            [
+                "Umber Brown"
+            ]
+        ]
+    },
+    "1139": {
+        "ext_ids": [
+            376
+        ],
+        "ext_descrs": [
+            [
+                "Tr. Yellow Opal"
+            ]
+        ]
+    },
+    "1140": {
+        "ext_ids": [
+            133
+        ],
+        "ext_descrs": [
+            [
+                "Neon Orange"
+            ]
+        ]
+    },
+    "1141": {
+        "ext_ids": [
+            134
+        ],
+        "ext_descrs": [
+            [
+                "Neon Green"
+            ]
+        ]
+    },
+    "1142": {
+        "ext_ids": [
+            144
+        ],
+        "ext_descrs": [
+            [
+                "Dark Army Green"
+            ]
+        ]
+    },
+    "1143": {
+        "ext_ids": [
+            122
+        ],
+        "ext_descrs": [
+            [
+                "Nature with Glitter"
+            ]
+        ]
+    },
+    "1145": {
+        "ext_ids": [
+            424
+        ],
+        "ext_descrs": [
+            [
+                "Ochre Yellow"
+            ]
+        ]
+    },
+    "1146": {
+        "ext_ids": [
+            430
+        ],
+        "ext_descrs": [
+            [
+                "Warm Pink"
+            ]
+        ]
+    },
+    "1147": {
+        "ext_ids": [
+            431
+        ],
+        "ext_descrs": [
+            [
+                "Blue Violet"
+            ]
+        ]
+    }
+}

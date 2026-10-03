@@ -43,6 +43,7 @@ EXCEL_REPORTS_DIR = DATA_DIR / "reports" / "excel"
 
 BACKEND_DIR = PROJECT_ROOT / "backend"
 BACKEND_HANDLERS_DIR = BACKEND_DIR / "handlers"
+COLOR_MAPPERS_DIR = BACKEND_DIR / "color_mappers"
 
 REPORTS_DIR = BACKEND_DIR / "reports"
 

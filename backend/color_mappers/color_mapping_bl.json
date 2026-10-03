@@ -1,0 +1,2162 @@
+{
+ "0": {
+  "ext_ids": [
+   11
+  ],
+  "ext_descrs": [
+   [
+    "Black"
+   ]
+  ]
+ },
+ "1": {
+  "ext_ids": [
+   7
+  ],
+  "ext_descrs": [
+   [
+    "Blue"
+   ]
+  ]
+ },
+ "2": {
+  "ext_ids": [
+   6
+  ],
+  "ext_descrs": [
+   [
+    "Green"
+   ]
+  ]
+ },
+ "3": {
+  "ext_ids": [
+   39
+  ],
+  "ext_descrs": [
+   [
+    "Dark Turquoise"
+   ]
+  ]
+ },
+ "4": {
+  "ext_ids": [
+   5
+  ],
+  "ext_descrs": [
+   [
+    "Red"
+   ]
+  ]
+ },
+ "5": {
+  "ext_ids": [
+   47
+  ],
+  "ext_descrs": [
+   [
+    "Dark Pink"
+   ]
+  ]
+ },
+ "6": {
+  "ext_ids": [
+   8
+  ],
+  "ext_descrs": [
+   [
+    "Brown"
+   ]
+  ]
+ },
+ "7": {
+  "ext_ids": [
+   9
+  ],
+  "ext_descrs": [
+   [
+    "Light Gray"
+   ]
+  ]
+ },
+ "8": {
+  "ext_ids": [
+   10
+  ],
+  "ext_descrs": [
+   [
+    "Dark Gray"
+   ]
+  ]
+ },
+ "9": {
+  "ext_ids": [
+   62
+  ],
+  "ext_descrs": [
+   [
+    "Light Blue"
+   ]
+  ]
+ },
+ "10": {
+  "ext_ids": [
+   36
+  ],
+  "ext_descrs": [
+   [
+    "Bright Green"
+   ]
+  ]
+ },
+ "11": {
+  "ext_ids": [
+   40
+  ],
+  "ext_descrs": [
+   [
+    "Light Turquoise"
+   ]
+  ]
+ },
+ "12": {
+  "ext_ids": [
+   25
+  ],
+  "ext_descrs": [
+   [
+    "Salmon"
+   ]
+  ]
+ },
+ "13": {
+  "ext_ids": [
+   23
+  ],
+  "ext_descrs": [
+   [
+    "Pink"
+   ]
+  ]
+ },
+ "14": {
+  "ext_ids": [
+   3
+  ],
+  "ext_descrs": [
+   [
+    "Yellow"
+   ]
+  ]
+ },
+ "15": {
+  "ext_ids": [
+   1
+  ],
+  "ext_descrs": [
+   [
+    "White"
+   ]
+  ]
+ },
+ "17": {
+  "ext_ids": [
+   38
+  ],
+  "ext_descrs": [
+   [
+    "Light Green"
+   ]
+  ]
+ },
+ "18": {
+  "ext_ids": [
+   33
+  ],
+  "ext_descrs": [
+   [
+    "Light Yellow"
+   ]
+  ]
+ },
+ "19": {
+  "ext_ids": [
+   2
+  ],
+  "ext_descrs": [
+   [
+    "Tan"
+   ]
+  ]
+ },
+ "20": {
+  "ext_ids": [
+   44
+  ],
+  "ext_descrs": [
+   [
+    "Light Violet"
+   ]
+  ]
+ },
+ "21": {
+  "ext_ids": [
+   46
+  ],
+  "ext_descrs": [
+   [
+    "Glow In Dark Opaque"
+   ]
+  ]
+ },
+ "22": {
+  "ext_ids": [
+   24
+  ],
+  "ext_descrs": [
+   [
+    "Purple"
+   ]
+  ]
+ },
+ "23": {
+  "ext_ids": [
+   109
+  ],
+  "ext_descrs": [
+   [
+    "Dark Blue-Violet"
+   ]
+  ]
+ },
+ "25": {
+  "ext_ids": [
+   4
+  ],
+  "ext_descrs": [
+   [
+    "Orange"
+   ]
+  ]
+ },
+ "26": {
+  "ext_ids": [
+   71
+  ],
+  "ext_descrs": [
+   [
+    "Magenta"
+   ]
+  ]
+ },
+ "27": {
+  "ext_ids": [
+   34
+  ],
+  "ext_descrs": [
+   [
+    "Lime"
+   ]
+  ]
+ },
+ "28": {
+  "ext_ids": [
+   69
+  ],
+  "ext_descrs": [
+   [
+    "Dark Tan"
+   ]
+  ]
+ },
+ "29": {
+  "ext_ids": [
+   104
+  ],
+  "ext_descrs": [
+   [
+    "Bright Pink"
+   ]
+  ]
+ },
+ "30": {
+  "ext_ids": [
+   157
+  ],
+  "ext_descrs": [
+   [
+    "Medium Lavender"
+   ]
+  ]
+ },
+ "31": {
+  "ext_ids": [
+   154
+  ],
+  "ext_descrs": [
+   [
+    "Lavender"
+   ]
+  ]
+ },
+ "33": {
+  "ext_ids": [
+   14
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Dark Blue"
+   ]
+  ]
+ },
+ "34": {
+  "ext_ids": [
+   20
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Green"
+   ]
+  ]
+ },
+ "35": {
+  "ext_ids": [
+   108
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Bright Green"
+   ]
+  ]
+ },
+ "36": {
+  "ext_ids": [
+   17
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Red"
+   ]
+  ]
+ },
+ "40": {
+  "ext_ids": [
+   13
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Black"
+   ]
+  ]
+ },
+ "41": {
+  "ext_ids": [
+   15
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Light Blue"
+   ]
+  ]
+ },
+ "42": {
+  "ext_ids": [
+   16
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Neon Green"
+   ]
+  ]
+ },
+ "43": {
+  "ext_ids": [
+   113
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Aqua"
+   ]
+  ]
+ },
+ "45": {
+  "ext_ids": [
+   50
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Dark Pink"
+   ]
+  ]
+ },
+ "46": {
+  "ext_ids": [
+   19
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Yellow"
+   ]
+  ]
+ },
+ "47": {
+  "ext_ids": [
+   12
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Clear"
+   ]
+  ]
+ },
+ "52": {
+  "ext_ids": [
+   51
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Purple"
+   ]
+  ]
+ },
+ "54": {
+  "ext_ids": [
+   121
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Neon Yellow"
+   ]
+  ]
+ },
+ "57": {
+  "ext_ids": [
+   18
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Neon Orange"
+   ]
+  ]
+ },
+ "60": {
+  "ext_ids": [
+   57
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Antique Brass"
+   ]
+  ]
+ },
+ "61": {
+  "ext_ids": [
+   52
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Blue"
+   ]
+  ]
+ },
+ "62": {
+  "ext_ids": [
+   64
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Green"
+   ]
+  ]
+ },
+ "63": {
+  "ext_ids": [
+   82
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Pink"
+   ]
+  ]
+ },
+ "64": {
+  "ext_ids": [
+   122
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Black"
+   ]
+  ]
+ },
+ "68": {
+  "ext_ids": [
+   96
+  ],
+  "ext_descrs": [
+   [
+    "Very Light Orange"
+   ]
+  ]
+ },
+ "69": {
+  "ext_ids": [
+   93
+  ],
+  "ext_descrs": [
+   [
+    "Light Purple"
+   ]
+  ]
+ },
+ "70": {
+  "ext_ids": [
+   88
+  ],
+  "ext_descrs": [
+   [
+    "Reddish Brown"
+   ]
+  ]
+ },
+ "71": {
+  "ext_ids": [
+   86
+  ],
+  "ext_descrs": [
+   [
+    "Light Bluish Gray"
+   ]
+  ]
+ },
+ "72": {
+  "ext_ids": [
+   85
+  ],
+  "ext_descrs": [
+   [
+    "Dark Bluish Gray"
+   ]
+  ]
+ },
+ "73": {
+  "ext_ids": [
+   42
+  ],
+  "ext_descrs": [
+   [
+    "Medium Blue"
+   ]
+  ]
+ },
+ "74": {
+  "ext_ids": [
+   37
+  ],
+  "ext_descrs": [
+   [
+    "Medium Green"
+   ]
+  ]
+ },
+ "75": {
+  "ext_ids": [
+   116
+  ],
+  "ext_descrs": [
+   [
+    "Speckle Black-Copper"
+   ]
+  ]
+ },
+ "76": {
+  "ext_ids": [
+   117
+  ],
+  "ext_descrs": [
+   [
+    "Speckle DBGray-Silver"
+   ]
+  ]
+ },
+ "77": {
+  "ext_ids": [
+   56
+  ],
+  "ext_descrs": [
+   [
+    "Rose Pink"
+   ]
+  ]
+ },
+ "78": {
+  "ext_ids": [
+   90
+  ],
+  "ext_descrs": [
+   [
+    "Light Nougat"
+   ]
+  ]
+ },
+ "79": {
+  "ext_ids": [
+   60
+  ],
+  "ext_descrs": [
+   [
+    "Milky White"
+   ]
+  ]
+ },
+ "80": {
+  "ext_ids": [
+   67
+  ],
+  "ext_descrs": [
+   [
+    "Metallic Silver"
+   ]
+  ]
+ },
+ "81": {
+  "ext_ids": [
+   70
+  ],
+  "ext_descrs": [
+   [
+    "Metallic Green"
+   ]
+  ]
+ },
+ "82": {
+  "ext_ids": [
+   65
+  ],
+  "ext_descrs": [
+   [
+    "Metallic Gold"
+   ]
+  ]
+ },
+ "84": {
+  "ext_ids": [
+   150
+  ],
+  "ext_descrs": [
+   [
+    "Medium Nougat"
+   ]
+  ]
+ },
+ "85": {
+  "ext_ids": [
+   89
+  ],
+  "ext_descrs": [
+   [
+    "Dark Purple"
+   ]
+  ]
+ },
+ "86": {
+  "ext_ids": [
+   91
+  ],
+  "ext_descrs": [
+   [
+    "Light Brown"
+   ]
+  ]
+ },
+ "89": {
+  "ext_ids": [
+   97
+  ],
+  "ext_descrs": [
+   [
+    "Royal Blue"
+   ]
+  ]
+ },
+ "92": {
+  "ext_ids": [
+   28
+  ],
+  "ext_descrs": [
+   [
+    "Nougat"
+   ]
+  ]
+ },
+ "100": {
+  "ext_ids": [
+   26
+  ],
+  "ext_descrs": [
+   [
+    "Light Salmon"
+   ]
+  ]
+ },
+ "110": {
+  "ext_ids": [
+   43
+  ],
+  "ext_descrs": [
+   [
+    "Violet"
+   ]
+  ]
+ },
+ "112": {
+  "ext_ids": [
+   73
+  ],
+  "ext_descrs": [
+   [
+    "Medium Violet"
+   ]
+  ]
+ },
+ "114": {
+  "ext_ids": [
+   100
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Dark Pink"
+   ]
+  ]
+ },
+ "115": {
+  "ext_ids": [
+   76
+  ],
+  "ext_descrs": [
+   [
+    "Medium Lime"
+   ]
+  ]
+ },
+ "117": {
+  "ext_ids": [
+   101
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Clear"
+   ]
+  ]
+ },
+ "118": {
+  "ext_ids": [
+   41
+  ],
+  "ext_descrs": [
+   [
+    "Aqua"
+   ]
+  ]
+ },
+ "120": {
+  "ext_ids": [
+   35
+  ],
+  "ext_descrs": [
+   [
+    "Light Lime"
+   ]
+  ]
+ },
+ "125": {
+  "ext_ids": [
+   32
+  ],
+  "ext_descrs": [
+   [
+    "Light Orange"
+   ]
+  ]
+ },
+ "129": {
+  "ext_ids": [
+   102
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Purple"
+   ]
+  ]
+ },
+ "132": {
+  "ext_ids": [
+   111
+  ],
+  "ext_descrs": [
+   [
+    "Speckle Black-Silver"
+   ]
+  ]
+ },
+ "133": {
+  "ext_ids": [
+   151
+  ],
+  "ext_descrs": [
+   [
+    "Speckle Black-Gold"
+   ]
+  ]
+ },
+ "134": {
+  "ext_ids": [
+   84
+  ],
+  "ext_descrs": [
+   [
+    "Copper"
+   ]
+  ]
+ },
+ "135": {
+  "ext_ids": [
+   66
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Light Gray"
+   ]
+  ]
+ },
+ "137": {
+  "ext_ids": [
+   78
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Sand Blue"
+   ]
+  ]
+ },
+ "142": {
+  "ext_ids": [
+   61
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Light Gold"
+   ]
+  ]
+ },
+ "143": {
+  "ext_ids": [
+   74
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Medium Blue"
+   ]
+  ]
+ },
+ "148": {
+  "ext_ids": [
+   77
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Dark Gray"
+   ]
+  ]
+ },
+ "150": {
+  "ext_ids": [
+   119
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Very Light Gray"
+   ]
+  ]
+ },
+ "151": {
+  "ext_ids": [
+   99
+  ],
+  "ext_descrs": [
+   [
+    "Very Light Bluish Gray"
+   ]
+  ]
+ },
+ "158": {
+  "ext_ids": [
+   158
+  ],
+  "ext_descrs": [
+   [
+    "Yellowish Green"
+   ]
+  ]
+ },
+ "178": {
+  "ext_ids": [
+   81
+  ],
+  "ext_descrs": [
+   [
+    "Flat Dark Gold"
+   ]
+  ]
+ },
+ "179": {
+  "ext_ids": [
+   95
+  ],
+  "ext_descrs": [
+   [
+    "Flat Silver"
+   ]
+  ]
+ },
+ "182": {
+  "ext_ids": [
+   98
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Orange"
+   ]
+  ]
+ },
+ "183": {
+  "ext_ids": [
+   83
+  ],
+  "ext_descrs": [
+   [
+    "Pearl White"
+   ]
+  ]
+ },
+ "191": {
+  "ext_ids": [
+   110
+  ],
+  "ext_descrs": [
+   [
+    "Bright Light Orange"
+   ]
+  ]
+ },
+ "212": {
+  "ext_ids": [
+   105
+  ],
+  "ext_descrs": [
+   [
+    "Bright Light Blue"
+   ]
+  ]
+ },
+ "216": {
+  "ext_ids": [
+   27
+  ],
+  "ext_descrs": [
+   [
+    "Rust"
+   ]
+  ]
+ },
+ "226": {
+  "ext_ids": [
+   103
+  ],
+  "ext_descrs": [
+   [
+    "Bright Light Yellow"
+   ]
+  ]
+ },
+ "230": {
+  "ext_ids": [
+   107
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Pink"
+   ]
+  ]
+ },
+ "232": {
+  "ext_ids": [
+   87
+  ],
+  "ext_descrs": [
+   [
+    "Sky Blue"
+   ]
+  ]
+ },
+ "236": {
+  "ext_ids": [
+   114
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Light Purple"
+   ]
+  ]
+ },
+ "272": {
+  "ext_ids": [
+   63
+  ],
+  "ext_descrs": [
+   [
+    "Dark Blue"
+   ]
+  ]
+ },
+ "288": {
+  "ext_ids": [
+   80
+  ],
+  "ext_descrs": [
+   [
+    "Dark Green"
+   ]
+  ]
+ },
+ "294": {
+  "ext_ids": [
+   118
+  ],
+  "ext_descrs": [
+   [
+    "Glow In Dark Trans"
+   ]
+  ]
+ },
+ "297": {
+  "ext_ids": [
+   115
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Gold"
+   ]
+  ]
+ },
+ "308": {
+  "ext_ids": [
+   120
+  ],
+  "ext_descrs": [
+   [
+    "Dark Brown"
+   ]
+  ]
+ },
+ "313": {
+  "ext_ids": [
+   72
+  ],
+  "ext_descrs": [
+   [
+    "Maersk Blue"
+   ]
+  ]
+ },
+ "320": {
+  "ext_ids": [
+   59
+  ],
+  "ext_descrs": [
+   [
+    "Dark Red"
+   ]
+  ]
+ },
+ "321": {
+  "ext_ids": [
+   153
+  ],
+  "ext_descrs": [
+   [
+    "Dark Azure"
+   ]
+  ]
+ },
+ "322": {
+  "ext_ids": [
+   156
+  ],
+  "ext_descrs": [
+   [
+    "Medium Azure"
+   ]
+  ]
+ },
+ "323": {
+  "ext_ids": [
+   152
+  ],
+  "ext_descrs": [
+   [
+    "Light Aqua"
+   ]
+  ]
+ },
+ "326": {
+  "ext_ids": [
+   155
+  ],
+  "ext_descrs": [
+   [
+    "Olive Green"
+   ]
+  ]
+ },
+ "334": {
+  "ext_ids": [
+   21
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Gold"
+   ]
+  ]
+ },
+ "335": {
+  "ext_ids": [
+   58
+  ],
+  "ext_descrs": [
+   [
+    "Sand Red"
+   ]
+  ]
+ },
+ "351": {
+  "ext_ids": [
+   94
+  ],
+  "ext_descrs": [
+   [
+    "Medium Dark Pink"
+   ]
+  ]
+ },
+ "366": {
+  "ext_ids": [
+   29
+  ],
+  "ext_descrs": [
+   [
+    "Earth Orange"
+   ]
+  ]
+ },
+ "373": {
+  "ext_ids": [
+   54
+  ],
+  "ext_descrs": [
+   [
+    "Sand Purple"
+   ]
+  ]
+ },
+ "378": {
+  "ext_ids": [
+   48
+  ],
+  "ext_descrs": [
+   [
+    "Sand Green"
+   ]
+  ]
+ },
+ "379": {
+  "ext_ids": [
+   55
+  ],
+  "ext_descrs": [
+   [
+    "Sand Blue"
+   ]
+  ]
+ },
+ "383": {
+  "ext_ids": [
+   22
+  ],
+  "ext_descrs": [
+   [
+    "Chrome Silver"
+   ]
+  ]
+ },
+ "450": {
+  "ext_ids": [
+   106
+  ],
+  "ext_descrs": [
+   [
+    "Fabuland Brown"
+   ]
+  ]
+ },
+ "462": {
+  "ext_ids": [
+   31
+  ],
+  "ext_descrs": [
+   [
+    "Medium Orange"
+   ]
+  ]
+ },
+ "484": {
+  "ext_ids": [
+   68
+  ],
+  "ext_descrs": [
+   [
+    "Dark Orange"
+   ]
+  ]
+ },
+ "503": {
+  "ext_ids": [
+   49
+  ],
+  "ext_descrs": [
+   [
+    "Very Light Gray"
+   ]
+  ]
+ },
+ "1000": {
+  "ext_ids": [
+   159
+  ],
+  "ext_descrs": [
+   [
+    "Glow in Dark White"
+   ]
+  ]
+ },
+ "1001": {
+  "ext_ids": [
+   245
+  ],
+  "ext_descrs": [
+   [
+    "Lilac"
+   ]
+  ]
+ },
+ "1002": {
+  "ext_ids": [
+   163
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Neon Green"
+   ]
+  ]
+ },
+ "1003": {
+  "ext_ids": [
+   162
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Light Blue"
+   ]
+  ]
+ },
+ "1004": {
+  "ext_ids": [
+   164
+  ],
+  "ext_descrs": [
+   [
+    "Trans Light Orange"
+   ]
+  ]
+ },
+ "1007": {
+  "ext_ids": [
+   227
+  ],
+  "ext_descrs": [
+   [
+    "Clikits Lavender"
+   ]
+  ]
+ },
+ "1012": {
+  "ext_ids": [
+   160
+  ],
+  "ext_descrs": [
+   [
+    "Fabuland Orange"
+   ]
+  ]
+ },
+ "1013": {
+  "ext_ids": [
+   123
+  ],
+  "ext_descrs": [
+   [
+    "Mx White"
+   ]
+  ]
+ },
+ "1014": {
+  "ext_ids": [
+   124
+  ],
+  "ext_descrs": [
+   [
+    "Mx Light Bluish Gray"
+   ]
+  ]
+ },
+ "1015": {
+  "ext_ids": [
+   125
+  ],
+  "ext_descrs": [
+   [
+    "Mx Light Gray"
+   ]
+  ]
+ },
+ "1016": {
+  "ext_ids": [
+   126
+  ],
+  "ext_descrs": [
+   [
+    "Mx Charcoal Gray"
+   ]
+  ]
+ },
+ "1017": {
+  "ext_ids": [
+   127
+  ],
+  "ext_descrs": [
+   [
+    "Mx Tile Gray"
+   ]
+  ]
+ },
+ "1018": {
+  "ext_ids": [
+   128
+  ],
+  "ext_descrs": [
+   [
+    "Mx Black"
+   ]
+  ]
+ },
+ "1019": {
+  "ext_ids": [
+   131
+  ],
+  "ext_descrs": [
+   [
+    "Mx Tile Brown"
+   ]
+  ]
+ },
+ "1020": {
+  "ext_ids": [
+   134
+  ],
+  "ext_descrs": [
+   [
+    "Mx Terracotta"
+   ]
+  ]
+ },
+ "1021": {
+  "ext_ids": [
+   132
+  ],
+  "ext_descrs": [
+   [
+    "Mx Brown"
+   ]
+  ]
+ },
+ "1022": {
+  "ext_ids": [
+   133
+  ],
+  "ext_descrs": [
+   [
+    "Mx Buff"
+   ]
+  ]
+ },
+ "1023": {
+  "ext_ids": [
+   129
+  ],
+  "ext_descrs": [
+   [
+    "Mx Red"
+   ]
+  ]
+ },
+ "1024": {
+  "ext_ids": [
+   130
+  ],
+  "ext_descrs": [
+   [
+    "Mx Pink Red"
+   ]
+  ]
+ },
+ "1025": {
+  "ext_ids": [
+   135
+  ],
+  "ext_descrs": [
+   [
+    "Mx Orange"
+   ]
+  ]
+ },
+ "1026": {
+  "ext_ids": [
+   136
+  ],
+  "ext_descrs": [
+   [
+    "Mx Light Orange"
+   ]
+  ]
+ },
+ "1027": {
+  "ext_ids": [
+   137
+  ],
+  "ext_descrs": [
+   [
+    "Mx Light Yellow"
+   ]
+  ]
+ },
+ "1028": {
+  "ext_ids": [
+   138
+  ],
+  "ext_descrs": [
+   [
+    "Mx Ochre Yellow"
+   ]
+  ]
+ },
+ "1029": {
+  "ext_ids": [
+   139
+  ],
+  "ext_descrs": [
+   [
+    "Mx Lemon"
+   ]
+  ]
+ },
+ "1030": {
+  "ext_ids": [
+   141
+  ],
+  "ext_descrs": [
+   [
+    "Mx Pastel Green"
+   ]
+  ]
+ },
+ "1031": {
+  "ext_ids": [
+   140
+  ],
+  "ext_descrs": [
+   [
+    "Mx Olive Green"
+   ]
+  ]
+ },
+ "1032": {
+  "ext_ids": [
+   142
+  ],
+  "ext_descrs": [
+   [
+    "Mx Aqua Green"
+   ]
+  ]
+ },
+ "1033": {
+  "ext_ids": [
+   146
+  ],
+  "ext_descrs": [
+   [
+    "Mx Teal Blue"
+   ]
+  ]
+ },
+ "1034": {
+  "ext_ids": [
+   143
+  ],
+  "ext_descrs": [
+   [
+    "Mx Tile Blue"
+   ]
+  ]
+ },
+ "1035": {
+  "ext_ids": [
+   144
+  ],
+  "ext_descrs": [
+   [
+    "Mx Medium Blue"
+   ]
+  ]
+ },
+ "1036": {
+  "ext_ids": [
+   145
+  ],
+  "ext_descrs": [
+   [
+    "Mx Pastel Blue"
+   ]
+  ]
+ },
+ "1037": {
+  "ext_ids": [
+   147
+  ],
+  "ext_descrs": [
+   [
+    "Mx Violet"
+   ]
+  ]
+ },
+ "1038": {
+  "ext_ids": [
+   148
+  ],
+  "ext_descrs": [
+   [
+    "Mx Pink"
+   ]
+  ]
+ },
+ "1039": {
+  "ext_ids": [
+   149
+  ],
+  "ext_descrs": [
+   [
+    "Mx Clear"
+   ]
+  ]
+ },
+ "1040": {
+  "ext_ids": [
+   210
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Dark Gray"
+   ]
+  ]
+ },
+ "1041": {
+  "ext_ids": [
+   211
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Light Gray"
+   ]
+  ]
+ },
+ "1042": {
+  "ext_ids": [
+   212
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Dark Green"
+   ]
+  ]
+ },
+ "1043": {
+  "ext_ids": [
+   213
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Light Green"
+   ]
+  ]
+ },
+ "1044": {
+  "ext_ids": [
+   214
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Dark Blue"
+   ]
+  ]
+ },
+ "1045": {
+  "ext_ids": [
+   215
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Light Blue"
+   ]
+  ]
+ },
+ "1046": {
+  "ext_ids": [
+   216
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Violet"
+   ]
+  ]
+ },
+ "1047": {
+  "ext_ids": [
+   217
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Red"
+   ]
+  ]
+ },
+ "1048": {
+  "ext_ids": [
+   218
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Yellow"
+   ]
+  ]
+ },
+ "1049": {
+  "ext_ids": [
+   219
+  ],
+  "ext_descrs": [
+   [
+    "Mx Foil Orange"
+   ]
+  ]
+ },
+ "1050": {
+  "ext_ids": [
+   220
+  ],
+  "ext_descrs": [
+   [
+    "Coral"
+   ]
+  ]
+ },
+ "1051": {
+  "ext_ids": [
+   72
+  ],
+  "ext_descrs": [
+   [
+    "Maersk Blue"
+   ]
+  ]
+ },
+ "1052": {
+  "ext_ids": [
+   222
+  ],
+  "ext_descrs": [
+   [
+    "Glitter Trans-Orange"
+   ]
+  ]
+ },
+ "1053": {
+  "ext_ids": [
+   223
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Light Blue"
+   ]
+  ]
+ },
+ "1054": {
+  "ext_ids": [
+   224
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Dark Pink"
+   ]
+  ]
+ },
+ "1055": {
+  "ext_ids": [
+   228
+  ],
+  "ext_descrs": [
+   [
+    "Satin White"
+   ]
+  ]
+ },
+ "1056": {
+  "ext_ids": [
+   229
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Black"
+   ]
+  ]
+ },
+ "1057": {
+  "ext_ids": [
+   226
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Light Bright Green"
+   ]
+  ]
+ },
+ "1058": {
+  "ext_ids": [
+   221
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Light Green"
+   ]
+  ]
+ },
+ "1059": {
+  "ext_ids": [
+   230
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Purple"
+   ]
+  ]
+ },
+ "1060": {
+  "ext_ids": [
+   233
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Bright Green"
+   ]
+  ]
+ },
+ "1061": {
+  "ext_ids": [
+   232
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Dark Blue"
+   ]
+  ]
+ },
+ "1062": {
+  "ext_ids": [
+   236
+  ],
+  "ext_descrs": [
+   [
+    "Neon Yellow"
+   ]
+  ]
+ },
+ "1063": {
+  "ext_ids": [
+   249
+  ],
+  "ext_descrs": [
+   [
+    "Reddish Copper"
+   ]
+  ]
+ },
+ "1065": {
+  "ext_ids": [
+   235
+  ],
+  "ext_descrs": [
+   [
+    "Reddish Gold"
+   ]
+  ]
+ },
+ "1066": {
+  "ext_ids": [
+   161
+  ],
+  "ext_descrs": [
+   [
+    "Dark Yellow"
+   ]
+  ]
+ },
+ "1067": {
+  "ext_ids": [
+   225
+  ],
+  "ext_descrs": [
+   [
+    "Dark Nougat"
+   ]
+  ]
+ },
+ "1068": {
+  "ext_ids": [
+   231
+  ],
+  "ext_descrs": [
+   [
+    "Dark Salmon"
+   ]
+  ]
+ },
+ "1069": {
+  "ext_ids": [
+   252
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Red"
+   ]
+  ]
+ },
+ "1070": {
+  "ext_ids": [
+   254
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Blue"
+   ]
+  ]
+ },
+ "1071": {
+  "ext_ids": [
+   253
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Green"
+   ]
+  ]
+ },
+ "1072": {
+  "ext_ids": [
+   255
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Brown"
+   ]
+  ]
+ },
+ "1073": {
+  "ext_ids": [
+   244
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Black"
+   ]
+  ]
+ },
+ "1074": {
+  "ext_ids": [
+   247
+  ],
+  "ext_descrs": [
+   [
+    "Little Robots Blue"
+   ]
+  ]
+ },
+ "1076": {
+  "ext_ids": [
+   171
+  ],
+  "ext_descrs": [
+   [
+    "Lemon"
+   ]
+  ]
+ },
+ "1077": {
+  "ext_ids": [
+   248
+  ],
+  "ext_descrs": [
+   [
+    "Fabuland Lime"
+   ]
+  ]
+ },
+ "1083": {
+  "ext_ids": [
+   237
+  ],
+  "ext_descrs": [
+   [
+    "Bionicle Copper"
+   ]
+  ]
+ },
+ "1084": {
+  "ext_ids": [
+   238
+  ],
+  "ext_descrs": [
+   [
+    "Bionicle Gold"
+   ]
+  ]
+ },
+ "1085": {
+  "ext_ids": [
+   239
+  ],
+  "ext_descrs": [
+   [
+    "Bionicle Silver"
+   ]
+  ]
+ },
+ "1088": {
+  "ext_ids": [
+   240
+  ],
+  "ext_descrs": [
+   [
+    "Medium Brown"
+   ]
+  ]
+ },
+ "1089": {
+  "ext_ids": [
+   241
+  ],
+  "ext_descrs": [
+   [
+    "Medium Tan"
+   ]
+  ]
+ },
+ "1091": {
+  "ext_ids": [
+   172
+  ],
+  "ext_descrs": [
+   [
+    "Warm Yellowish Orange"
+   ]
+  ]
+ },
+ "1092": {
+  "ext_ids": [
+   250
+  ],
+  "ext_descrs": [
+   [
+    "Metallic Copper"
+   ]
+  ]
+ },
+ "1093": {
+  "ext_ids": [
+   246
+  ],
+  "ext_descrs": [
+   [
+    "Light Lilac"
+   ]
+  ]
+ },
+ "1094": {
+  "ext_ids": [
+   234
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Medium Purple"
+   ]
+  ]
+ },
+ "1095": {
+  "ext_ids": [
+   251
+  ],
+  "ext_descrs": [
+   [
+    "Trans-Black (2023)"
+   ]
+  ]
+ },
+ "1103": {
+  "ext_ids": [
+   77
+  ],
+  "ext_descrs": [
+   [
+    "Pearl Dark Gray"
+   ]
+  ]
+ },
+ "1136": {
+  "ext_ids": [
+   167
+  ],
+  "ext_descrs": [
+   [
+    "Reddish Orange"
+   ]
+  ]
+ },
+ "1137": {
+  "ext_ids": [
+   169
+  ],
+  "ext_descrs": [
+   [
+    "Sienna"
+   ]
+  ]
+ },
+ "1138": {
+  "ext_ids": [
+   168
+  ],
+  "ext_descrs": [
+   [
+    "Umber"
+   ]
+  ]
+ },
+ "1139": {
+  "ext_ids": [
+   170
+  ],
+  "ext_descrs": [
+   [
+    "Satin Trans-Yellow"
+   ]
+  ]
+ },
+ "1140": {
+  "ext_ids": [
+   165
+  ],
+  "ext_descrs": [
+   [
+    "Neon Orange"
+   ]
+  ]
+ },
+ "1141": {
+  "ext_ids": [
+   166
+  ],
+  "ext_descrs": [
+   [
+    "Neon Green"
+   ]
+  ]
+ },
+ "1142": {
+  "ext_ids": [
+   242
+  ],
+  "ext_descrs": [
+   [
+    "Dark Olive Green"
+   ]
+  ]
+ },
+ "1145": {
+  "ext_ids": [
+   173
+  ],
+  "ext_descrs": [
+   [
+    "Ochre Yellow"
+   ]
+  ]
+ },
+ "1146": {
+  "ext_ids": [
+   175
+  ],
+  "ext_descrs": [
+   [
+    "Warm Pink"
+   ]
+  ]
+ },
+ "1147": {
+  "ext_ids": [
+   174
+  ],
+  "ext_descrs": [
+   [
+    "Blue Violet"
+   ]
+  ]
+ },
+ "9999": {
+  "ext_ids": [
+   0
+  ],
+  "ext_descrs": [
+   [
+    "(Not Applicable)"
+   ]
+  ]
+ }
+}

@@ -1,3 +1,4 @@
+import json
 import logging
 from collections import defaultdict
 
@@ -16,9 +17,31 @@ from services.api_client import (
     update_part_quantity,
 )
 from services.api_retry import call_with_refresh
-from settings import PART_IMAGES_DIR, MINIFIGS_IMAGES_DIR_150x150, PART_IMAGES_DIR_60x60
+from settings import COLOR_MAPPERS_DIR, PART_IMAGES_DIR, MINIFIGS_IMAGES_DIR_150x150, PART_IMAGES_DIR_60x60
 
 logger = logging.getLogger(__name__)
+with open(COLOR_MAPPERS_DIR / "color_mapping_lego.json", encoding="utf-8") as f:
+    _RAW_COLOR_MAP = json.load(f)
+
+
+def _build_lego_color_map(raw: dict) -> dict:
+    result = {}
+    for color_id, info in raw.items():
+        ext_ids = info.get("ext_ids") or []
+        ext_descrs = info.get("ext_descrs") or []
+
+        if not ext_ids:
+            continue
+
+        first_names = ext_descrs[0] if ext_descrs else []
+        result[int(color_id)] = {
+            "lego_color_id": ext_ids[0],
+            "lego_color": first_names[0] if first_names else None,
+        }
+    return result
+
+
+LEGO_COLOR_MAP = _build_lego_color_map(_RAW_COLOR_MAP)
 
 
 class PartHandler(metaclass=SingletonMeta):
@@ -154,10 +177,13 @@ class PartHandler(metaclass=SingletonMeta):
                 "part_num": None,
                 "name": None,
                 "color": None,
+                "lego_color": None,
                 "color_id": None,
+                "lego_color_id": None,
                 "element_ids": [],
                 "img_path": None,
                 "total_missing": 0,
+                "total_missing_spare": 0,
                 "sets": [],
             }
         )
@@ -175,18 +201,23 @@ class PartHandler(metaclass=SingletonMeta):
 
                 key = (part["part_num"], part["color_id"])
                 entry = aggregated[key]
+                lego = LEGO_COLOR_MAP.get(part["color_id"], {})
 
                 entry["part_num"] = part["part_num"]
                 entry["name"] = part["name"]
                 entry["color"] = part["color"]
                 entry["color_id"] = part["color_id"]
                 entry["img_path"] = part["img_path"]
+                entry["lego_color"] = lego.get("lego_color")
+                entry["lego_color_id"] = lego.get("lego_color_id")
 
                 for eid in part["element_ids"]:
                     if eid not in entry["element_ids"]:
                         entry["element_ids"].append(eid)
 
                 entry["total_missing"] += missing
+                if part["is_spare"]:
+                    entry["total_missing_spare"] += missing
                 entry["sets"].append(
                     {
                         "set_num": user_set["set_num"],
