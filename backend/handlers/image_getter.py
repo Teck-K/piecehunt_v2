@@ -11,7 +11,7 @@ from abc import ABC, abstractmethod
 import httpx
 
 from settings import (
-    BACKEND_HANDLERS_DIR,
+    COLOR_MAPPERS_DIR,
     MINIFIGS_IMAGES_DIR,
     PART_IMAGES_DIR,
     SETS_IMAGES_DIR,
@@ -132,7 +132,7 @@ class BricklinkPartImageGetter(ImageGetter):
         alternative: If True, strips non-numeric characters from the part number.
     """
 
-    color_mapping_file = BACKEND_HANDLERS_DIR / "color_mapping.json"
+    color_mapping_file = COLOR_MAPPERS_DIR / "color_mapping_bl.json"
     with open(color_mapping_file, "r") as f:
         color_mapping = json.load(f)
 
