@@ -9,7 +9,7 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
-from settings import REPORTS_DIR
+from settings import CSV_REPORTS_DIR
 
 logger = logging.getLogger(__name__)
 
@@ -38,7 +38,7 @@ def generate_missing_parts_csv(
     """
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_path = REPORTS_DIR / f"missing_parts_{username}_{timestamp}.csv"
+    output_path = CSV_REPORTS_DIR / f"missing_parts_{username}_{timestamp}.csv"
 
     skipped = 0
 
@@ -47,23 +47,23 @@ def generate_missing_parts_csv(
         writer.writerow(HEADERS)
 
         for part in report_data:
-            lego_color_id = part.get("lego_color_id")
-            if lego_color_id is None:
-                skipped += 1
-                logger.warning(
-                    "No LEGO color id for part %s (color_id=%s), skipping",
-                    part["part_num"],
-                    part.get("color_id"),
-                )
-                continue
+            #     lego_color_id = part.get("lego_color_id")
+            #     if lego_color_id is None:
+            #         skipped += 1
+            #         logger.warning(
+            #             "No LEGO color id for part %s (color_id=%s), skipping",
+            #             part["part_num"],
+            #             part.get("color_id"),
+            #         )
+            #         continue
 
             spare_qty = part.get("total_missing_spare", 0)
             regular_qty = part["total_missing"] - spare_qty
 
             if regular_qty > 0:
-                writer.writerow([part["part_num"], lego_color_id, regular_qty, False])
+                writer.writerow([part["part_num"], part["color_id"], regular_qty, False])
             if spare_qty > 0:
-                writer.writerow([part["part_num"], lego_color_id, spare_qty, True])
+                writer.writerow([part["part_num"], part["color_id"], spare_qty, True])
 
     logger.info(
         "Missing parts CSV generated: %s (%d rows, %d skipped)",

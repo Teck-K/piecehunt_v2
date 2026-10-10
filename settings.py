@@ -40,6 +40,7 @@ FALSE_POSITIVE_DIR = YOLO_DIR / "false_positives"
 
 PDF_REPORTS_DIR = DATA_DIR / "reports" / "pdf"
 EXCEL_REPORTS_DIR = DATA_DIR / "reports" / "excel"
+CSV_REPORTS_DIR = DATA_DIR / "reports" / "csv"
 
 BACKEND_DIR = PROJECT_ROOT / "backend"
 BACKEND_HANDLERS_DIR = BACKEND_DIR / "handlers"
